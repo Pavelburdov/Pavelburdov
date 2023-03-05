@@ -11,7 +11,7 @@ ___
 ### 💻 Навыки:
 * UIKit, SwiftUI
 * ООП
-* Верстка Autolayout (constraints), Storyboard
+* Верстка Autolayout (constraints), SnapKit, Storyboard
 * Сore Data, Realm, UserDefaults, Codable, Firebase
 * GIT (Terminal, Xcode, GitHub)
 * Networking (parsing JSON)
