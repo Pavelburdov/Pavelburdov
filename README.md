@@ -5,7 +5,7 @@
 - :book: Я успешно завершил курс iOS- разработчик в Нетологии, курс Dr Angela Yu “The Complete iOS App Development Bootcamp” на Udemy. Участник свифтмарафона 4.0. В настоящий момент я занимаюсь самообразованием и пишу свои собственные pet project.
 
 - :zap: Ищу работу на вакансию Junior IOS Developer.
-- [My CV.pdf](https://github.com/Pavelburdov/pavelBurdov/files/10899289/My.CV.pdf)
+- [My CV](https://github.com/Pavelburdov/CV/blob/main/My%20CV.001.jpeg)
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-pavelburdov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/roqez) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:roqez0070@gmail.com)
 ___
 ### 💻 Навыки:
