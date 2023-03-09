@@ -1,6 +1,6 @@
 # Привет, меня зовут Павел! :wave:
 ### :man_technologist: Обо мне:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="25" height="25"/>&nbsp; IOS Developer
+- <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="25" height="25"/>&nbsp; iOS Developer
 
 - :book: Я успешно завершил курс iOS- разработчик в Нетологии, курс Dr Angela Yu “The Complete iOS App Development Bootcamp” на Udemy. Участник свифтмарафона 4.0. В настоящий момент я занимаюсь самообразованием и пишу свои собственные pet project.
 
